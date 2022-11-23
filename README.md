@@ -71,7 +71,7 @@ Le damos un poco de estilo
 
 ## 8 Creamos una carpeta llamada data dentro de ella crearemos los archivos mockData.js mockGeoFeatures.js Estos archivos los comparto son la dataSet de nuestro Sistema.
 
-### 9 Creamos una carpeta de componentes que serán los elementos de la página de cada una de las secciones de nuestro sistema.
+## 9 Creamos una carpeta de componentes que serán los elementos de la página de cada una de las secciones de nuestro sistema.
 BarChart.jsx \
 GeographyChart.jsx \
 Header.jsx \
@@ -96,7 +96,7 @@ StatBox.jsx
 •	pie \
 •	team
 
-### `11 Creamos un archivo en la raíz llamado theme.jsx este se usará para poner en tema obscuro o claro nuestro entorno se sugiere adicionar la extensión Tailwind Shades para crear las clases de cada uno de los colores Se usa con ctrl+k y crtl+g`
+## 11 Creamos un archivo en la raíz llamado theme.jsx este se usará para poner en tema obscuro o claro nuestro entorno se sugiere adicionar la extensión Tailwind Shades para crear las clases de cada uno de los colores Se usa con ctrl+k y crtl+g
 
 La base de los colores del estilo dark son:
 •	#666666 \
